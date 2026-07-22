@@ -62,31 +62,14 @@ I enjoy turning ideas into production-ready applications by combining AI, clean 
 <br>
 
 
-## 🌟 Featured Project
-
-
-<div align="center">
-
-<a href="https://github.com/sileolab/SmartShop-LLM">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sileolab&repo=SmartShop-LLM&theme=tokyonight"/>
-
-</a>
-
-</div>
-
-
-<br>
-
-
 ## 📊 GitHub Analytics
 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sileolab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sileolab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileolab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sileolab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
