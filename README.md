@@ -1,97 +1,156 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Younes+%F0%9F%91%8B;AI+Engineer+%7C+Python+Developer;Building+Intelligent+AI+Systems;LLM+%7C+NLP+%7C+Computer+Vision" />
 
-# Hi, I'm Younes 👋
+<br/>
 
-### AI Engineer | Python Developer | Building Intelligent AI Systems  
-### LLM • NLP • Computer Vision • Flask • Docker
-
-I'm an AI Engineer and Python Developer focused on building intelligent systems that combine artificial intelligence with real-world applications. I specialize in LLM-based solutions, Natural Language Processing, Computer Vision, and scalable backend development using Python, Flask, and Docker.
+<img src="https://komarev.com/ghpvc/?username=sileolab&style=for-the-badge&color=0891b2"/>
 
 </div>
 
 
 <div align="center">
 
-🌍 Based in Iran  
-✉️ Contact: [yebrahimi621@gmail.com](mailto:yebrahimi621@gmail.com)
+# 🧠 Younes | AI Engineer
 
-</div>
-
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<div align="center">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36"/>
-</a>
-
-<a href="https://ubuntu.com/">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36"/>
-</a>
-
-</div>
-
-
-<h3 align="center">🌐 Connect With Me</h3>
-
-<div align="center">
-
-<a href="https://github.com/sileolab">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
-</a>
-
-<a href="https://www.linkedin.com/in/younes-ebrahimi-143660268">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
-</a>
+### Building Intelligent Systems with Artificial Intelligence
 
 </div>
 
 
 <div align="center">
 
-<a href="https://github.com/sileolab">
-<img src="https://img.shields.io/github/followers/sileolab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+I'm an **AI Engineer and Python Developer** passionate about designing intelligent systems that solve real-world problems.  
+
+My focus is on **Large Language Models (LLMs), Natural Language Processing, Computer Vision, and scalable backend architectures** using modern software engineering practices.
+
+I enjoy turning ideas into production-ready applications by combining AI, clean code, and powerful infrastructure.
 
 </div>
 
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<br>
+
+
+## 🚀 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sileolab&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileolab&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917"/>
+🤖 Large Language Models (LLMs)  
+🧠 Natural Language Processing  
+👁️ Computer Vision  
+🐍 Python Backend Development  
+⚡ AI-powered Applications  
+🐳 Docker & Cloud Infrastructure  
 
 </div>
 
 
-<h3 align="center">🚀 Featured Project</h3>
+<br>
+
+
+## 🛠️ Technologies
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,docker,linux,git,github,js,html,css,vscode,ubuntu,tensorflow,pytorch&perline=7"/>
+
+</div>
+
+
+<br>
+
+
+## 🌟 Featured Project
+
 
 <div align="center">
 
 <a href="https://github.com/sileolab/SmartShop-LLM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sileolab&repo=SmartShop-LLM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sileolab&repo=SmartShop-LLM&theme=tokyonight"/>
+
 </a>
+
+</div>
+
+
+<br>
+
+
+## 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sileolab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sileolab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sileolab&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<br>
+
+
+## 🏆 GitHub Trophy
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sileolab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+
+<br>
+
+
+## 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sileolab/sileolab/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+<br>
+
+
+## 🌐 Connect With Me
+
+
+<div align="center">
+
+<a href="https://github.com/sileolab">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/younes-ebrahimi-143660268">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+### "Building the future with Artificial Intelligence 🚀"
 
 </div>
