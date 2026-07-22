@@ -104,19 +104,6 @@ I enjoy turning ideas into production-ready applications by combining AI, clean 
 <br>
 
 
-## 🏆 GitHub Trophy
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sileolab&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-
-<br>
-
-
 ## 🐍 Contribution Snake
 
 
